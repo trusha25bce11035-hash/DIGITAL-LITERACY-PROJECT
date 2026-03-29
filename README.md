@@ -2,13 +2,21 @@
 This GitHub Digital Literacy Portfolio demonstrates how I have assisted my classmates and peers with creating their own professional profiles, practicing safe online communication,  all the while including resources, assignments, and reflections to help establish a solid foundation for ethical digital interaction with others.
 
 ## Student Details
+
 Name: Trusha Dhabe
+
 Registration Number: 25BCE11035
+
 Branch: B.Tech CSE (Core)
+
 Year: 2025–2029 (First Year)
+
 Course Code: CSE0001
+
 Course Title: Digital Literacy
+
 University: VIT Bhopal University
+
 
 ## Project Overview
 The Student Digital Ambassador Program was enacted in order to create a project with the objective of enhancing essential skill sets for the practical application of safe and effective use of technology and the internet.  The project is broken up into five tasks, each of which covers an area of importance including: Digital Literacy, Professional Identity, Communication Etiquette, and Cybercrime Awareness. 
